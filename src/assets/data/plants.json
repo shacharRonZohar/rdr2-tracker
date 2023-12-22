@@ -1,217 +1,518 @@
 [
   {
     "id": 1,
-    "name": "Acuna’s Star Orchid",
-    "isNewAustin": false
+    "name": "Alaskan Ginseng",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 2,
-    "name": "Alaskan Ginseng",
-    "isNewAustin": false
+    "name": "American Ginseng",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 3,
-    "name": "American Ginseng",
-    "isNewAustin": false
+    "name": "Bay Bolete",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 4,
-    "name": "Bay Bolete",
-    "isNewAustin": false
+    "name": "Blackberry",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 5,
-    "name": "Blackberry",
-    "isNewAustin": false
+    "name": "Blackcurrant",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 6,
-    "name": "Blackcurrant",
-    "isNewAustin": true
+    "name": "Burdock Root",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 7,
-    "name": "Burdock Root",
-    "isNewAustin": false
+    "name": "Chanterelles",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 8,
-    "name": "Chanterelles",
-    "isNewAustin": false
+    "name": "Common Bulrush",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 9,
-    "name": "Cigar Orchid",
-    "isNewAustin": false
+    "name": "Creeping Thyme",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 10,
-    "name": "Clamshell Orchid",
-    "isNewAustin": false
+    "name": "Desert Sage",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "new-austin",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 11,
-    "name": "Common Bulrush",
-    "isNewAustin": false
+    "name": "English Mace",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 12,
-    "name": "Creeping Thyme",
-    "isNewAustin": false
+    "name": "Evergreen Huckleberry",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 13,
-    "name": "Desert Sage",
-    "isNewAustin": true
+    "name": "Golden Currant",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 14,
-    "name": "Dragon’s Mouth Orchid",
-    "isNewAustin": false
+    "name": "Hummingbird Sage",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 15,
-    "name": "English Mace",
-    "isNewAustin": false
+    "name": "Indian Tobacco",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 16,
-    "name": "Evergreen Huckleberry",
-    "isNewAustin": false
+    "name": "Milkweed",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 17,
-    "name": "Ghost Orchid",
-    "isNewAustin": false
+    "name": "Oleander Sage",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 18,
-    "name": "Golden Currant",
-    "isNewAustin": false
+    "name": "Oregano",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 19,
-    "name": "Hummingbird Sage",
-    "isNewAustin": false
+    "name": "Parasol Mushroom",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 20,
-    "name": "Indian Tobacco",
-    "isNewAustin": false
+    "name": "Prairie Poppy",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "new-austin",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 21,
-    "name": "Lady of the Night Orchid",
-    "isNewAustin": false
+    "name": "Ram's Head",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 22,
-    "name": "Lady Slipper Orchid",
-    "isNewAustin": false
+    "name": "Red Raspberry",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 23,
-    "name": "Milkweed",
-    "isNewAustin": false
+    "name": "Red Sage",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "new-austin",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 24,
-    "name": "Moccasin Flower Orchid",
-    "isNewAustin": false
+    "name": "Vanilla Flower",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 25,
-    "name": "Night Scented Orchid",
-    "isNewAustin": false
+    "name": "Violet Snowdrops",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 26,
-    "name": "Oleander Sage",
-    "isNewAustin": false
+    "name": "Wild Carrot",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 27,
-    "name": "Oregano",
-    "isNewAustin": false
+    "name": "Wild Feverfew",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "new-austin",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 28,
-    "name": "Parasol Mushroom",
-    "isNewAustin": false
+    "name": "Wild Mint",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 29,
-    "name": "Prairie Poppy",
-    "isNewAustin": false
+    "name": "Wintergreen Berry",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 30,
-    "name": "Queen’s Orchid",
-    "isNewAustin": false
+    "name": "Yarrow",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 31,
-    "name": "Ram’s Head",
-    "isNewAustin": false
+    "name": "Acuna's Star Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 32,
-    "name": "Rat Tail Orchid",
-    "isNewAustin": false
+    "name": "Cigar Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 33,
-    "name": "Red Raspberry",
-    "isNewAustin": false
+    "name": "Clamshell Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 34,
-    "name": "Red Sage",
-    "isNewAustin": true
+    "name": "Dragon's Mouth Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 35,
-    "name": "Sparrow’s Egg Orchid",
-    "isNewAustin": false
+    "name": "Ghost Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 36,
-    "name": "Spider Orchid",
-    "isNewAustin": false
+    "name": "Lady of the Night Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 37,
-    "name": "Vanilla Flower",
-    "isNewAustin": false
+    "name": "Lady Slipper Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 38,
-    "name": "Violet Snowdrops",
-    "isNewAustin": false
+    "name": "Moccasin Flower Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 39,
-    "name": "Wild Carrot",
-    "isNewAustin": false
+    "name": "Night Scented Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 40,
-    "name": "Wild Feverfew",
-    "isNewAustin": true
+    "name": "Queen's Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 41,
-    "name": "Wild Mint",
-    "isNewAustin": false
+    "name": "Rat Tail Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 42,
-    "name": "Wintergreen Berry",
-    "isNewAustin": false
+    "name": "Sparrow's Egg Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   },
   {
     "id": 43,
-    "name": "Yarrow",
-    "isNewAustin": false
+    "name": "Spider Orchid",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
   }
 ]
