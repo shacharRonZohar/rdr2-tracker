@@ -3,8 +3,11 @@
     <li v-for="objective in objectives" :key="objective">
       <!-- {{ objective }} -->
       <!-- {{ objectiveComponentMap[objective] }} -->
+      <!-- {{ item.trackerValues[objective] }} -->
+      <!-- asd -->
       <component
         :is="objectiveComponentMap[objective]"
+        :title="objective"
         :model-value="item.trackerValues[objective]"
         @update:model-value="updateTrackerValues(objective, $event)"
       />
@@ -15,10 +18,15 @@
 <script setup lang="ts" generic="T extends ItemType">
 import { computed, ref, toRefs } from 'vue'
 import type { DataItem, ItemType } from '@/models/data'
-import TrackCollected from './TrackerObjectives/TrackCollected.vue'
-
+import TrackBoolean from './TrackerObjectives/TrackBoolean.vue'
+// import TrackMultipuleBoolean from './TrackerObjectives/TrackMultipuleBoolean.vue'
 const objectiveComponentMap = {
-  isCollected: TrackCollected
+  isCollected: TrackBoolean,
+  isTracked: TrackBoolean,
+  isKilled: TrackBoolean,
+  isSkinned: TrackBoolean,
+  isPerfectSkinned: TrackBoolean,
+  isStudied: TrackBoolean
 } as const
 
 type ObjectiveComponentMapKeys = keyof typeof objectiveComponentMap
@@ -40,6 +48,7 @@ function updateTrackerValues(objective: ObjectiveComponentMapKeys, value: boolea
     ...props.item.trackerValues,
     [objective]: value
   }
+  console.log('trackerValues', trackerValues)
   // trackerValues.value[objective] = value
   // console.log('trackerValues', trackerValues.value)
   // emit('update', props.item.id, trackerValues.value)

@@ -16,7 +16,7 @@ const icons = {
 } as const
 
 const props = defineProps<{
-  itemType: ItemType
+  itemType: ItemType | 'newAustin'
 }>()
 
 const formattedItemType = computed(() => {

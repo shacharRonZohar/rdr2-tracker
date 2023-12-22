@@ -1,22 +1,35 @@
-// export interface Plant {
-//   id: number
-//   name: string
-//   isNewAustin: boolean
-// }
-
 export type WithId = { id: number }
 
-export type DataType = 'plant'
+export type ItemType = 'plant' | 'animal'
 
-export interface DataItem<T extends DataType> extends WithId {
+export interface TrackerValues {
+  plant: {
+    isCollected: boolean
+  }
+  animal: {
+    isTracked: boolean
+    isKilled: boolean
+    isSkinned: boolean
+    isPerfectSkinned: boolean
+    isStudied: boolean
+  }
+}
+export interface Location extends WithId {
   name: string
-  type: T
-  isNewAustin: boolean
-  comments?: string
+  state: string
+  comments?: string[]
 }
 
-export type Plant = DataItem<'plant'>
+export interface DataItem<T extends ItemType> extends WithId {
+  name: string
+  locations: Location[]
+  comments?: string[]
+  trackerValues: TrackerValues[T]
+}
+
+// export type Plant = DataItem<'plant'>
 
 export interface UserData {
-  plants: Plant[]
+  plant: DataItem<'plant'>[]
+  animal: DataItem<'animal'>[]
 }

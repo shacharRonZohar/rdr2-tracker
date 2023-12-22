@@ -1,0 +1,1784 @@
+[
+  {
+    "name": "American Alligator",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Alligator (small)",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Nine-Banded Armadillo",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Badger",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Little Brown Bat",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Black Bear",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Grizzly Bear",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "North American Beaver",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Blue Jay",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Wild Boar",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Whitetail Buck",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Whitetail Deer",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Bison",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Angus Bull",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Devon Bull",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Hereford Bull",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Bullfrog",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Northern Cardinal",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Domestic Cat",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Cedar Waxwing",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Dominique Chicken",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Dominique Rooster",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Java Chicken",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Java Rooster",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Leghorn Chicken",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Leghorn Rooster",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Greater Prairie Chicken",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Western Chipmunk",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Californian Condor",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Cougar",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Double-crested Cormorant",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Neotropic Cormorant",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Florida Cracker Cow",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "California Valley Coyote",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Cuban Land Crab",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Red Swamp Crayfish",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Whooping Crane",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Sandhill Crane",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Crow",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Fox Hound",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Australian Shepherd",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Bloodhound",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Bluetick Coonhound",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Border Collie",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Catahoula Cur",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Chesapeake Bay Retriever",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Siberian Husky#",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Labrador Retriever",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Poodle",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Mutt",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rufus",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Standard Donkey",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Mallard Duck",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Pekin Duck",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Bald Eagle",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Golden Eagle",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Reddish Egret",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Little Egret",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Snowy Egret",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rocky Mountain Bull Elk",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rocky Mountain Cow Elk",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Red Fox",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Gray Fox",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Silver Fox",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Banded Gila Monster",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Alpine Goat",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Canada Goose",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Ferruginous Hawk",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Red-tailed Hawk",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rough-legged Hawk",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Great Blue Heron",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Tricolored Heron",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Desert Iguana",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Green Iguana",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Collared Peccary",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Common Loon",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Pacific Loon",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Yellow-billed Loon",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Western Bull Moose",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Western Moose",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Mule",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Muskrat",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Baltimore Oriole",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Hooded Oriole",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Californian Horned Owl",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Coastal Horned Owl",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Great Horned Owl",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Angus Ox",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Devon Ox",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Panther",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Florida Panther",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Carolina Parakeet",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Blue and Yellow Macaw",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Great Green Macaw",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Scarlet Macaw",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American White Pelican",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Brown Pelican",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Ring-necked Pheasant",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Chinese Ring-necked Pheasant",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Berkshire Pig",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Big China Pig",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Old Spot Pig",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Band-tailed Pigeon",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rock Pigeon",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Virginia Opossum",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Pronghorn Buck",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Pronghorn Doe",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Sonoran Pronghorn Buck",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Sonoran Pronghorn Doe",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Baja California Pronghorn Buck",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Baja California Pronghorn Doe",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "California Quail",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Sierra Nevada Bighorn Ram",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Sierra Nevada Bighorn Sheep",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Desert Bighorn Ram",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Desert Bighorn Sheep",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rocky Mountain Bighorn Ram",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rocky Mountain Bighorn Sheep",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Black-tailed Jackrabbit",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "North American Raccoon",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Black Rat",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Brown Rat",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Western Raven",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Red-footed Booby",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Robin",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Roseate Spoonbill",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Herring Gull",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Laughing Gull",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Ring-billed Gull",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Merino Sheep",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Striped Skunk",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Red Boa Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rainbow Boa Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Sunglow Boa Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Diamondback Rattlesnake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Fer-de-Lance Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Black-tailed Rattlesnake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Timber Rattlesnake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Northern Copperhead Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Southern Copperhead Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Midland Water Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Cottonmouth Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Northern Water Snake",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Scarlet Tanager Songbird",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Western Tanager Songbird",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Eurasian Tree Sparrow",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Tree Sparrow",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Golden Crowned Sparrow",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "American Red Squirrel",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Western Gray Squirrel",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Black Squirrel",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Western Toad",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Sonoran Desert Toad",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Eastern Wild Turkey",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Rio Grande Wild Turkey",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Alligator Snapping Turtle",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Eastern Turkey Vulture",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Western Turkey Vulture",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Gray Wolf",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Timber Wolf",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Red-bellied Woodpecker",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "name": "Pileated Woodpecker",
+    "locations": [
+      {
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  }
+]

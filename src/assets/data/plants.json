@@ -4,6 +4,7 @@
     "name": "Alaskan Ginseng",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -16,6 +17,7 @@
     "name": "American Ginseng",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -28,6 +30,7 @@
     "name": "Bay Bolete",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -40,6 +43,7 @@
     "name": "Blackberry",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -52,6 +56,7 @@
     "name": "Blackcurrant",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -64,6 +69,7 @@
     "name": "Burdock Root",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -76,6 +82,7 @@
     "name": "Chanterelles",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -88,6 +95,7 @@
     "name": "Common Bulrush",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -100,6 +108,7 @@
     "name": "Creeping Thyme",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -112,6 +121,7 @@
     "name": "Desert Sage",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "new-austin",
         "comments": ["Placeholder comment"]
@@ -124,6 +134,7 @@
     "name": "English Mace",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -136,6 +147,7 @@
     "name": "Evergreen Huckleberry",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -148,6 +160,7 @@
     "name": "Golden Currant",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -160,6 +173,7 @@
     "name": "Hummingbird Sage",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -172,6 +186,7 @@
     "name": "Indian Tobacco",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -184,6 +199,7 @@
     "name": "Milkweed",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -196,6 +212,7 @@
     "name": "Oleander Sage",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -208,6 +225,7 @@
     "name": "Oregano",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -220,6 +238,7 @@
     "name": "Parasol Mushroom",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -232,6 +251,7 @@
     "name": "Prairie Poppy",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "new-austin",
         "comments": ["Placeholder comment"]
@@ -244,6 +264,7 @@
     "name": "Ram's Head",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -256,6 +277,7 @@
     "name": "Red Raspberry",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -268,6 +290,7 @@
     "name": "Red Sage",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "new-austin",
         "comments": ["Placeholder comment"]
@@ -280,6 +303,7 @@
     "name": "Vanilla Flower",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -292,6 +316,7 @@
     "name": "Violet Snowdrops",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -304,6 +329,7 @@
     "name": "Wild Carrot",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -316,6 +342,7 @@
     "name": "Wild Feverfew",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "new-austin",
         "comments": ["Placeholder comment"]
@@ -328,6 +355,7 @@
     "name": "Wild Mint",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -340,6 +368,7 @@
     "name": "Wintergreen Berry",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -352,6 +381,7 @@
     "name": "Yarrow",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -364,6 +394,7 @@
     "name": "Acuna's Star Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -376,6 +407,7 @@
     "name": "Cigar Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -388,6 +420,7 @@
     "name": "Clamshell Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -400,6 +433,7 @@
     "name": "Dragon's Mouth Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -412,6 +446,7 @@
     "name": "Ghost Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -424,6 +459,7 @@
     "name": "Lady of the Night Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -436,6 +472,7 @@
     "name": "Lady Slipper Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -448,6 +485,7 @@
     "name": "Moccasin Flower Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -460,6 +498,7 @@
     "name": "Night Scented Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -472,6 +511,7 @@
     "name": "Queen's Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -484,6 +524,7 @@
     "name": "Rat Tail Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -496,6 +537,7 @@
     "name": "Sparrow's Egg Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]
@@ -508,6 +550,7 @@
     "name": "Spider Orchid",
     "locations": [
       {
+        "id": 1,
         "name": "Placeholder Location",
         "state": "Placeholder State",
         "comments": ["Placeholder comment"]

@@ -1,33 +1,39 @@
 <template>
+  <!-- <span>Total: {{ items.length }} / {{ allItems.length }}</span> -->
   <ul>
     <ListItem
-      v-for="item in array"
+      v-for="item in items"
       :key="item.id"
       :item="item"
-      :model-value="isItemInItemsInArray(item)"
-      @update:model-value="emit('update', item.id, $event)"
+      :itemType="itemType"
+      @update="onUpdateTrackerValues"
     />
   </ul>
 </template>
 
-<script setup lang="ts" generic="DT extends DataType">
-import type { DataItem, DataType } from '@/models/data'
+<script setup lang="ts" generic="T extends ItemType">
+import type { DataItem, ItemType } from '@/models/data'
 import { useItemsInArray } from '@/composables/useItemsInArray'
 import ListItem from './ListItem.vue'
 import { toRefs } from 'vue'
 
 const props = defineProps<{
-  array: DataItem<DT>[]
-  items: number[]
+  itemType: T
+  // allItems: DataItem<T>[]
+  items: DataItem<T>[]
 }>()
 
 const emit = defineEmits<{
-  update: [id: number, value: boolean]
+  update: [id: number, value: (typeof props.items)[0]['trackerValues']]
 }>()
 
-const { itemsInArray } = useItemsInArray(toRefs(props))
-
-function isItemInItemsInArray(item: DataItem<DT>) {
-  return itemsInArray.value.some((itemInArray) => itemInArray === item.id)
+function onUpdateTrackerValues(id: number, value: (typeof props.items)[0]['trackerValues']) {
+  emit('update', id, value)
 }
+
+// const { itemsInArray } = useItemsInArray(toRefs(props))
+
+// function isItemInItemsInArray(item: DataItem<T>) {
+//   return itemsInArray.value.some((itemInArray) => itemInArray === item.id)
+// }
 </script>

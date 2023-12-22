@@ -1,5 +1,5 @@
 <template>
-  <ItemView :itemType="'plant'" />
+  <ItemView :itemType="'animal'" />
 </template>
 
 <script setup lang="ts">
