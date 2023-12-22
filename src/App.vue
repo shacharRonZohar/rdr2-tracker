@@ -13,14 +13,6 @@
 
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import { useLocalStorage } from '@vueuse/core'
-import { provide } from 'vue'
-// const userData =
-const { value: userData } = useLocalStorage('userData', {
-  plants: []
-})
-
-provide('userData', userData)
 </script>
 
 <style scoped>
