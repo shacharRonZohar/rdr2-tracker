@@ -1,6 +1,7 @@
 import fs from 'fs/promises'
 
 const filePath = process.argv[2]
+// const userDataFile = JSON.parse(await fs.readFile('./userData.json', 'utf-8'))
 // const key = process.argv[3]
 if (!filePath) throw new Error('No file path')
 // if (!key) throw new Error('No key')
@@ -54,6 +55,7 @@ async function verify(path) {
       ]
     }
     if (!isArrayWithLength(contents[i].comments)) contents[i].comments = ['Placeholder comment']
+
     for (let j = 0; j < contents[i].locations.length; j++) {
       if (!contents[i].locations[j].name) {
         contents[i].locations[j].name = 'Placeholder Location'

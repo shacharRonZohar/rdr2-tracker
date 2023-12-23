@@ -1,22 +1,13 @@
 <template>
-  <span :title="formattedItemType">{{ icons[itemType] }}</span>
+  <span :title="formattedItemType">{{ ICONS[itemType] }}</span>
 </template>
 
 <script setup lang="ts">
 import { computed } from 'vue'
-import type { ItemType } from '@/models/data'
-
-const icons = {
-  plant: '🌱',
-  animal: '🐮',
-  fish: '🐟',
-  horse: '🐴',
-  newAustin: '🌵'
-  // more icons
-} as const
+import { type ITEM_TYPES, ICONS, type SPECIAL_ITEM_TYPES } from '@/models/data'
 
 const props = defineProps<{
-  itemType: ItemType | 'newAustin'
+  itemType: ITEM_TYPES | SPECIAL_ITEM_TYPES
 }>()
 
 const formattedItemType = computed(() => {

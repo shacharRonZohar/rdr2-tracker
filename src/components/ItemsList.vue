@@ -11,29 +11,20 @@
   </ul>
 </template>
 
-<script setup lang="ts" generic="T extends ItemType">
-import type { DataItem, ItemType } from '@/models/data'
-import { useItemsInArray } from '@/composables/useItemsInArray'
+<script setup lang="ts">
+import { type DataItem, ITEM_TYPES, type TrackerValues } from '@/models/data'
 import ListItem from './ListItem.vue'
-import { toRefs } from 'vue'
 
-const props = defineProps<{
-  itemType: T
-  // allItems: DataItem<T>[]
-  items: DataItem<T>[]
+defineProps<{
+  itemType: ITEM_TYPES
+  items: DataItem<ITEM_TYPES>[]
 }>()
 
 const emit = defineEmits<{
-  update: [id: number, value: (typeof props.items)[0]['trackerValues']]
+  update: [id: number, value: TrackerValues[ITEM_TYPES]]
 }>()
 
-function onUpdateTrackerValues(id: number, value: (typeof props.items)[0]['trackerValues']) {
+function onUpdateTrackerValues(id: number, value: TrackerValues[ITEM_TYPES]) {
   emit('update', id, value)
 }
-
-// const { itemsInArray } = useItemsInArray(toRefs(props))
-
-// function isItemInItemsInArray(item: DataItem<T>) {
-//   return itemsInArray.value.some((itemInArray) => itemInArray === item.id)
-// }
 </script>

@@ -1,0 +1,3686 @@
+{
+  "plant": [
+    {
+      "id": 1,
+      "name": "Alaskan Ginseng",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 2,
+      "name": "American Ginseng",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 3,
+      "name": "Bay Bolete",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 4,
+      "name": "Blackberry",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 5,
+      "name": "Blackcurrant",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 6,
+      "name": "Burdock Root",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 7,
+      "name": "Chanterelles",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 8,
+      "name": "Common Bulrush",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 9,
+      "name": "Creeping Thyme",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 10,
+      "name": "Desert Sage",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "new-austin",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 11,
+      "name": "English Mace",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 12,
+      "name": "Evergreen Huckleberry",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 13,
+      "name": "Golden Currant",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 14,
+      "name": "Hummingbird Sage",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 15,
+      "name": "Indian Tobacco",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 16,
+      "name": "Milkweed",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 17,
+      "name": "Oleander Sage",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 18,
+      "name": "Oregano",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 19,
+      "name": "Parasol Mushroom",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 20,
+      "name": "Prairie Poppy",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "new-austin",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 21,
+      "name": "Ram's Head",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 22,
+      "name": "Red Raspberry",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 23,
+      "name": "Red Sage",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "new-austin",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 24,
+      "name": "Vanilla Flower",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 25,
+      "name": "Violet Snowdrops",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 26,
+      "name": "Wild Carrot",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 27,
+      "name": "Wild Feverfew",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "new-austin",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 28,
+      "name": "Wild Mint",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 29,
+      "name": "Wintergreen Berry",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 30,
+      "name": "Yarrow",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 31,
+      "name": "Acuna's Star Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 32,
+      "name": "Cigar Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": true }
+    },
+    {
+      "id": 33,
+      "name": "Clamshell Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 34,
+      "name": "Dragon's Mouth Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 35,
+      "name": "Ghost Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 36,
+      "name": "Lady of the Night Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 37,
+      "name": "Lady Slipper Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 38,
+      "name": "Moccasin Flower Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 39,
+      "name": "Night Scented Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 40,
+      "name": "Queen's Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 41,
+      "name": "Rat Tail Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 42,
+      "name": "Sparrow's Egg Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    },
+    {
+      "id": 43,
+      "name": "Spider Orchid",
+      "locations": [
+        {
+          "id": 1,
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": { "isCollected": false }
+    }
+  ],
+  "animal": [
+    {
+      "id": 1,
+      "name": "American Alligator",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": false,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "American Alligator (small)",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nine-Banded Armadillo",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": false,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "American Badger",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 5,
+      "name": "Little Brown Bat",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": true,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 6,
+      "name": "American Black Bear",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 7,
+      "name": "Grizzly Bear",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "North American Beaver",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": false,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 9,
+      "name": "Blue Jay",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 10,
+      "name": "Wild Boar",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 11,
+      "name": "Whitetail Buck",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 12,
+      "name": "Whitetail Deer",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 13,
+      "name": "American Bison",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 14,
+      "name": "Angus Bull",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 15,
+      "name": "Devon Bull",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 16,
+      "name": "Hereford Bull",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 17,
+      "name": "American Bullfrog",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 18,
+      "name": "Northern Cardinal",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 19,
+      "name": "American Domestic Cat",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 20,
+      "name": "Cedar Waxwing",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 21,
+      "name": "Dominique Chicken",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 22,
+      "name": "Dominique Rooster",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 23,
+      "name": "Java Chicken",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 24,
+      "name": "Java Rooster",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 25,
+      "name": "Leghorn Chicken",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 26,
+      "name": "Leghorn Rooster",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 27,
+      "name": "Greater Prairie Chicken",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 28,
+      "name": "Western Chipmunk",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 29,
+      "name": "Californian Condor",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 30,
+      "name": "Cougar",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 31,
+      "name": "Double-crested Cormorant",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 32,
+      "name": "Neotropic Cormorant",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 33,
+      "name": "Florida Cracker Cow",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 34,
+      "name": "California Valley Coyote",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": false,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 35,
+      "name": "Cuban Land Crab",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 36,
+      "name": "Red Swamp Crayfish",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 37,
+      "name": "Whooping Crane",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 38,
+      "name": "Sandhill Crane",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 39,
+      "name": "American Crow",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 40,
+      "name": "American Fox Hound",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 41,
+      "name": "Australian Shepherd",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 42,
+      "name": "Bloodhound",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 43,
+      "name": "Bluetick Coonhound",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 44,
+      "name": "Border Collie",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 45,
+      "name": "Catahoula Cur",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 46,
+      "name": "Chesapeake Bay Retriever",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 47,
+      "name": "Siberian Husky#",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 48,
+      "name": "Labrador Retriever",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 49,
+      "name": "Poodle",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 50,
+      "name": "Mutt",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 51,
+      "name": "Rufus",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 52,
+      "name": "Standard Donkey",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 53,
+      "name": "Mallard Duck",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 54,
+      "name": "Pekin Duck",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 55,
+      "name": "Bald Eagle",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 56,
+      "name": "Golden Eagle",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 57,
+      "name": "Reddish Egret",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 58,
+      "name": "Little Egret",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 59,
+      "name": "Snowy Egret",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 60,
+      "name": "Rocky Mountain Bull Elk",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 61,
+      "name": "Rocky Mountain Cow Elk",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 62,
+      "name": "American Red Fox",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 63,
+      "name": "American Gray Fox",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 64,
+      "name": "Silver Fox",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 65,
+      "name": "Banded Gila Monster",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 66,
+      "name": "Alpine Goat",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 67,
+      "name": "Canada Goose",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 68,
+      "name": "Ferruginous Hawk",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 69,
+      "name": "Red-tailed Hawk",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 70,
+      "name": "Rough-legged Hawk",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 71,
+      "name": "Great Blue Heron",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 72,
+      "name": "Tricolored Heron",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 73,
+      "name": "Desert Iguana",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 74,
+      "name": "Green Iguana",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 75,
+      "name": "Collared Peccary",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 76,
+      "name": "Common Loon",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 77,
+      "name": "Pacific Loon",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 78,
+      "name": "Yellow-billed Loon",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 79,
+      "name": "Western Bull Moose",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 80,
+      "name": "Western Moose",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 81,
+      "name": "Mule",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 82,
+      "name": "American Muskrat",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 83,
+      "name": "Baltimore Oriole",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 84,
+      "name": "Hooded Oriole",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 85,
+      "name": "Californian Horned Owl",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 86,
+      "name": "Coastal Horned Owl",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 87,
+      "name": "Great Horned Owl",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 88,
+      "name": "Angus Ox",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 89,
+      "name": "Devon Ox",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 90,
+      "name": "Panther",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 91,
+      "name": "Florida Panther",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 92,
+      "name": "Carolina Parakeet",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 93,
+      "name": "Blue and Yellow Macaw",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 94,
+      "name": "Great Green Macaw",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 95,
+      "name": "Scarlet Macaw",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 96,
+      "name": "American White Pelican",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 97,
+      "name": "Brown Pelican",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 98,
+      "name": "Ring-necked Pheasant",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 99,
+      "name": "Chinese Ring-necked Pheasant",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 100,
+      "name": "Berkshire Pig",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 101,
+      "name": "Big China Pig",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 102,
+      "name": "Old Spot Pig",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 103,
+      "name": "Band-tailed Pigeon",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 104,
+      "name": "Rock Pigeon",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 105,
+      "name": "Virginia Opossum",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 106,
+      "name": "American Pronghorn Buck",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 107,
+      "name": "American Pronghorn Doe",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 108,
+      "name": "Sonoran Pronghorn Buck",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 109,
+      "name": "Sonoran Pronghorn Doe",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 110,
+      "name": "Baja California Pronghorn Buck",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 111,
+      "name": "Baja California Pronghorn Doe",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 112,
+      "name": "California Quail",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 113,
+      "name": "Sierra Nevada Bighorn Ram",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 114,
+      "name": "Sierra Nevada Bighorn Sheep",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 115,
+      "name": "Desert Bighorn Ram",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 116,
+      "name": "Desert Bighorn Sheep",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 117,
+      "name": "Rocky Mountain Bighorn Ram",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 118,
+      "name": "Rocky Mountain Bighorn Sheep",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 119,
+      "name": "Black-tailed Jackrabbit",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 120,
+      "name": "North American Raccoon",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 121,
+      "name": "Black Rat",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 122,
+      "name": "Brown Rat",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 123,
+      "name": "Western Raven",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 124,
+      "name": "Red-footed Booby",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 125,
+      "name": "American Robin",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 126,
+      "name": "Roseate Spoonbill",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 127,
+      "name": "Herring Gull",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 128,
+      "name": "Laughing Gull",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 129,
+      "name": "Ring-billed Gull",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 130,
+      "name": "Merino Sheep",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 131,
+      "name": "Striped Skunk",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 132,
+      "name": "Red Boa Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 133,
+      "name": "Rainbow Boa Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 134,
+      "name": "Sunglow Boa Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 135,
+      "name": "Diamondback Rattlesnake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 136,
+      "name": "Fer-de-Lance Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 137,
+      "name": "Black-tailed Rattlesnake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 138,
+      "name": "Timber Rattlesnake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 139,
+      "name": "Northern Copperhead Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 140,
+      "name": "Southern Copperhead Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 141,
+      "name": "Midland Water Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 142,
+      "name": "Cottonmouth Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 143,
+      "name": "Northern Water Snake",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 144,
+      "name": "Scarlet Tanager Songbird",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 145,
+      "name": "Western Tanager Songbird",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 146,
+      "name": "Eurasian Tree Sparrow",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 147,
+      "name": "American Tree Sparrow",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 148,
+      "name": "Golden Crowned Sparrow",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 149,
+      "name": "American Red Squirrel",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 150,
+      "name": "Western Gray Squirrel",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 151,
+      "name": "Black Squirrel",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 152,
+      "name": "Western Toad",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 153,
+      "name": "Sonoran Desert Toad",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 154,
+      "name": "Eastern Wild Turkey",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 155,
+      "name": "Rio Grande Wild Turkey",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 156,
+      "name": "Alligator Snapping Turtle",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 157,
+      "name": "Eastern Turkey Vulture",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 158,
+      "name": "Western Turkey Vulture",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 159,
+      "name": "Gray Wolf",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
+      }
+    },
+    {
+      "id": 160,
+      "name": "Timber Wolf",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 161,
+      "name": "Red-bellied Woodpecker",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 162,
+      "name": "Pileated Woodpecker",
+      "locations": [
+        {
+          "name": "Placeholder Location",
+          "state": "Placeholder State",
+          "comments": ["Placeholder comment"]
+        }
+      ],
+      "comments": ["Placeholder comment"],
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    }
+  ]
+}

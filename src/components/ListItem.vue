@@ -4,51 +4,43 @@
       {{ item.id }}
       <span>{{ item.name }}</span>
       <ItemIcon :itemType="itemType" />
-      <ItemIcon v-if="isNewAustin" itemType="newAustin" />
+      <ItemIcon v-if="isNewAustin" :item-type="SPECIAL_ITEM_TYPES.NEW_AUSTIN" />
     </div>
     <ItemTracker
       :itemType="itemType"
       :item="item"
-      :objectives="itemTypeObjectiveMap[itemType]"
+      :objectives="ITEM_TYPE_OBJECTIVE_MAP[itemType]"
       @update="onUpdateTrackerValues"
     />
   </li>
 </template>
 
-<script setup lang="ts" generic="T extends ItemType">
+<script setup lang="ts">
 import { computed } from 'vue'
 import ItemIcon from '@/components/Item/ItemIcon.vue'
 import ItemTracker from './Item/ItemTracker.vue'
-import type { DataItem, ItemType } from '@/models/data'
-
-const itemTypeObjectiveMap = {
-  plant: ['isCollected'],
-  animal: ['isTracked', 'isKilled', 'isSkinned', 'isPerfectSkinned', 'isStudied']
-
-  // newAustin: 'TrackCollected'
-} as const
+import {
+  SPECIAL_ITEM_TYPES,
+  ITEM_TYPE_OBJECTIVE_MAP,
+  type DataItem,
+  type ITEM_TYPES,
+  type TrackerValues
+} from '@/models/data'
 
 const props = defineProps<{
-  itemType: T
-  item: DataItem<T>
+  itemType: ITEM_TYPES
+  item: DataItem<ITEM_TYPES>
 }>()
 
 const emit = defineEmits<{
-  update: [id: number, value: typeof props.item.trackerValues]
+  update: [id: number, value: TrackerValues[ITEM_TYPES]]
 }>()
 
-function onUpdateTrackerValues(id: number, value: typeof props.item.trackerValues) {
+function onUpdateTrackerValues(id: number, value: TrackerValues[ITEM_TYPES]) {
   emit('update', id, value)
 }
-// const isMarked = defineModel()
-// console.log('isMarked', isMarked)
-// console.log(props.item.locations)
+
 const isNewAustin = computed(() => {
-  // console.log('locations', props.item.locations)
   return props.item.locations.every((location, idx) => location.state === 'new-austin')
 })
-// const itemClass = computed(() => ({
-//   // 'is-marked': isMarked.value,
-//   'is-new-austin': isNewAustin.value
-// }))
 </script>

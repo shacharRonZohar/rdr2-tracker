@@ -1,5 +1,5 @@
 <template>
-  <ItemView :itemType="ITEM_TYPES.ANIMAL" />
+  <ItemView :itemType="ITEM_TYPES.LEGENDARY_ANIMAL" />
 </template>
 
 <script setup lang="ts">

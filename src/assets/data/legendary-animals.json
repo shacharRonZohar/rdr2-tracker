@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "name": "Legendary Alligator",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 2,
+    "name": "Legendary Bear",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 3,
+    "name": "Legendary Beaver",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 4,
+    "name": "Legendary Boar",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 5,
+    "name": "Legendary Buck",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 6,
+    "name": "Legendary Cougar",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 7,
+    "name": "Legendary Coyote",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 8,
+    "name": "Legendary Elk",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 9,
+    "name": "Legendary Fox",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 10,
+    "name": "Legendary Moose",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 11,
+    "name": "Legendary Panther",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 12,
+    "name": "Legendary Pronghorn",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 13,
+    "name": "Legendary Ram",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 14,
+    "name": "Legendary Tatanka Bison",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 15,
+    "name": "Legendary White Bison",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  },
+  {
+    "id": 16,
+    "name": "Legendary Wolf",
+    "locations": [
+      {
+        "id": 1,
+        "name": "Placeholder Location",
+        "state": "Placeholder State",
+        "comments": ["Placeholder comment"]
+      }
+    ],
+    "comments": ["Placeholder comment"]
+  }
+]

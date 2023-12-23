@@ -5,6 +5,7 @@
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/plants">Plants</RouterLink>
         <RouterLink to="/animals">Animals</RouterLink>
+        <RouterLink to="/legendary-animals">Legendary Animals</RouterLink>
       </nav>
     </div>
   </header>

@@ -1,10 +1,7 @@
 <template>
   <ul>
     <li v-for="objective in objectives" :key="objective">
-      <!-- {{ objective }} -->
-      <!-- {{ objectiveComponentMap[objective] }} -->
-      <!-- {{ item.trackerValues[objective] }} -->
-      <!-- asd -->
+      <!-- @vue-expect-error -->
       <component
         :is="objectiveComponentMap[objective]"
         :title="objective"
@@ -15,9 +12,14 @@
   </ul>
 </template>
 
-<script setup lang="ts" generic="T extends ItemType">
-import { computed, ref, toRefs } from 'vue'
-import type { DataItem, ItemType } from '@/models/data'
+<script setup lang="ts" generic="T extends ITEM_TYPES">
+import {
+  type DataItem,
+  ITEM_TYPES,
+  type TrackerValues,
+  type OBJECTIVE
+  // type TrackerValuesKeys
+} from '@/models/data'
 import TrackBoolean from './TrackerObjectives/TrackBoolean.vue'
 // import TrackMultipuleBoolean from './TrackerObjectives/TrackMultipuleBoolean.vue'
 const objectiveComponentMap = {
@@ -29,29 +31,25 @@ const objectiveComponentMap = {
   isStudied: TrackBoolean
 } as const
 
-type ObjectiveComponentMapKeys = keyof typeof objectiveComponentMap
 const props = defineProps<{
   itemType: T
   item: DataItem<T>
-  objectives: ObjectiveComponentMapKeys[]
+  objectives: OBJECTIVE[] | readonly OBJECTIVE[]
 }>()
 
 const emit = defineEmits<{
-  update: [id: number, value: typeof props.item.trackerValues]
+  update: [id: number, value: TrackerValues[T]]
 }>()
-// const trackerValues = ref({
-//   ...props.item.trackerValues
-// })
 
-function updateTrackerValues(objective: ObjectiveComponentMapKeys, value: boolean) {
+function updateTrackerValues(objective: OBJECTIVE, value: boolean) {
   const trackerValues = {
     ...props.item.trackerValues,
     [objective]: value
   }
-  console.log('trackerValues', trackerValues)
-  // trackerValues.value[objective] = value
-  // console.log('trackerValues', trackerValues.value)
-  // emit('update', props.item.id, trackerValues.value)
   emit('update', props.item.id, trackerValues)
+}
+
+function objectiveAsKeyofObjectiveComponentMap(objective: OBJECTIVE) {
+  return objective as keyof typeof objectiveComponentMap
 }
 </script>
