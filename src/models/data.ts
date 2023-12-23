@@ -64,3 +64,22 @@ export const ITEM_TYPE_OBJECTIVE_MAP = {
   [ITEM_TYPES.ANIMAL]: ['isTracked', 'isKilled', 'isSkinned', 'isPerfectSkinned', 'isStudied'],
   [ITEM_TYPES.LEGENDARY_ANIMAL]: ['isTracked', 'isKilled', 'isSkinned', 'isStudied']
 } as const
+
+export const DEFAULT_TRACKER_VALUES = {
+  [ITEM_TYPES.PLANT]: {
+    isCollected: false
+  },
+  [ITEM_TYPES.ANIMAL]: {
+    isTracked: false,
+    isKilled: false,
+    isSkinned: false,
+    isPerfectSkinned: false,
+    isStudied: false
+  },
+  [ITEM_TYPES.LEGENDARY_ANIMAL]: {
+    isTracked: false,
+    isKilled: false,
+    isSkinned: false,
+    isStudied: false
+  }
+} as const

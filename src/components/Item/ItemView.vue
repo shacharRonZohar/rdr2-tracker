@@ -1,13 +1,15 @@
 <template>
-  <ItemsList :items="filteredUserData" :item-type="itemType" @update="update" />
+  <ItemsList :items="filteredDataToShow" :item-type="itemType" @update="update" />
 </template>
 
 <script setup lang="ts">
+import plants from '@/assets/data/plants.json'
+import animals from '@/assets/data/animals.json'
+import legendaryAnimals from '@/assets/data/legendary-animals.json'
 import ItemsList from '@/components/ItemsList.vue'
-
 import { useUserData } from '@/composables/useUserData'
-import type { DataItem, ITEM_TYPES, TrackerValues } from '@/models/data'
-import { computed, watch, watchEffect } from 'vue'
+import { ITEM_TYPES, type TrackerValues, DEFAULT_TRACKER_VALUES } from '@/models/data'
+import { computed } from 'vue'
 
 const props = defineProps<{
   itemType: ITEM_TYPES
@@ -25,16 +27,45 @@ function update(id: number, trackerValues: TrackerValues[ITEM_TYPES]) {
   })
 }
 
-// watchEffect(() => {
-//   // console.log(props.filterCondition)
-//   console.log(props.guard)
-// })
+//
 
-const filteredUserData = computed(() => {
-  if (!props.filterCondition) return userData[props.itemType]
+const dataToShow = computed(() => {
+  let data = []
+  switch (props.itemType) {
+    case ITEM_TYPES.PLANT:
+      data = plants.map((plant) => ({
+        ...plant,
+        trackerValues: getTrackerValues(plant.id)
+      }))
+      break
+    case ITEM_TYPES.ANIMAL:
+      data = animals.map((animal) => ({
+        ...animal,
+        trackerValues: getTrackerValues(animal.id)
+      }))
+      break
+    case ITEM_TYPES.LEGENDARY_ANIMAL:
+      data = legendaryAnimals.map((legendaryAnimal) => ({
+        ...legendaryAnimal,
+        trackerValues: getTrackerValues(legendaryAnimal.id)
+      }))
+      break
+  }
+
+  return data
+})
+
+const filteredDataToShow = computed(() => {
+  if (!props.filterCondition) return dataToShow.value
   // console.log(props.filterCondition)
-  return userData[props.itemType].filter(
+  return dataToShow.value.filter(
     (item) => props.filterCondition && props.filterCondition(item, props.guards)
   )
 })
+
+function getTrackerValues(id: number) {
+  return (
+    userData[props.itemType].find((item) => item.id === id)?.trackerValues || DEFAULT_TRACKER_VALUES
+  )
+}
 </script>

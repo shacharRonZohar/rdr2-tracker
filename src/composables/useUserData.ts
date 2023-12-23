@@ -26,13 +26,13 @@ const filteredUserDataLegendaryAnimals = userDataJSON?.legendaryAnimals?.filter(
 export function useUserData() {
   const initialUserData = {
     plant: plants.map((plant) => ({
-      ...plant,
+      id: plant.id,
       trackerValues: {
         isCollected: filteredUserDataPlants.includes(plant.id)
       }
     })),
     animal: animals.map((animal) => ({
-      ...animal,
+      id: animal.id,
       trackerValues: filteredUserDataAnimals.find((item) => item.id === animal.id)
         ?.trackerValues || {
         isTracked: false,
@@ -43,7 +43,7 @@ export function useUserData() {
       }
     })),
     legendaryAnimal: legendaryAnimals.map((animal) => ({
-      ...animal,
+      id: animal.id,
       trackerValues: filteredUserDataLegendaryAnimals?.find((item) => item.id === animal.id)
         ?.trackerValues || {
         isTracked: false,
@@ -53,7 +53,7 @@ export function useUserData() {
         isStudied: false
       }
     }))
-  }
+  } as const
 
   const { value: userData } = useStorage('userData', initialUserData)
 
