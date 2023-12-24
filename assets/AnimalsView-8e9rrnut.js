@@ -1,0 +1,1 @@
+import{_ as e,I as a}from"./ItemView.vue_vue_type_script_setup_true_lang-9zgYIhP7.js";import{d as n,g as o,u as s,o as t}from"./index-tyJrfShM.js";const i=n({__name:"AnimalsView",setup(r){return(_,m)=>(t(),o(e,{itemType:s(a).ANIMAL},null,8,["itemType"]))}});export{i as default};
