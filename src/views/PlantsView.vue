@@ -20,7 +20,7 @@
 
 <script setup lang="ts">
 import ItemView from '@/components/Item/ItemView.vue'
-import { ITEM_TYPES, SPECIAL_ITEM_TYPES } from '@/models/data'
+import { ITEM_TYPES, SPECIAL_ITEM_TYPES, type DataItem } from '@/models/data'
 
 import { ref, watchEffect } from 'vue'
 
@@ -31,12 +31,13 @@ const noNewAustin = ref(false)
 //   console.log(notCompleted.value)
 // })
 
-function filterCondition(item: any, guards?: boolean[]) {
+function filterCondition(item: DataItem<ITEM_TYPES>, guards?: boolean[]) {
   let value = true
   const isNotCompletedGuard = guards && guards[0]
   const isNewAustinGuard = guards && guards[1]
   const isNoNewAustinGuard = guards && guards[2]
   if (isNotCompletedGuard) {
+    // @ts-ignore
     value = !item.trackerValues.isCollected
   }
   if (isNoNewAustinGuard) {

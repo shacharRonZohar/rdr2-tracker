@@ -8,7 +8,12 @@ import animals from '@/assets/data/animals.json'
 import legendaryAnimals from '@/assets/data/legendary-animals.json'
 import ItemsList from '@/components/ItemsList.vue'
 import { useUserData } from '@/composables/useUserData'
-import { ITEM_TYPES, type TrackerValues, DEFAULT_TRACKER_VALUES } from '@/models/data'
+import {
+  ITEM_TYPES,
+  type TrackerValues,
+  DEFAULT_TRACKER_VALUES,
+  type DataItem
+} from '@/models/data'
 import { computed } from 'vue'
 
 const props = defineProps<{
@@ -56,11 +61,11 @@ const dataToShow = computed(() => {
 })
 
 const filteredDataToShow = computed(() => {
-  if (!props.filterCondition) return dataToShow.value
+  if (!props.filterCondition) return dataToShow.value as DataItem<ITEM_TYPES>[]
   // console.log(props.filterCondition)
   return dataToShow.value.filter(
     (item) => props.filterCondition && props.filterCondition(item, props.guards)
-  )
+  ) as DataItem<ITEM_TYPES>[]
 })
 
 function getTrackerValues(id: number) {
