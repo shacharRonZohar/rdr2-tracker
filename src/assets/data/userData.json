@@ -1,263 +1,48 @@
 {
   "plant": [
-    {
-      "id": 1,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 2,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 3,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 4,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 5,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 6,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 7,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 8,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 9,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 10,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 11,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 12,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 13,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 14,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 15,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 16,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 17,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 18,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 19,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 20,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 21,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 22,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 23,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 24,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 25,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 26,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 27,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 28,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 29,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 30,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 31,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 32,
-      "trackerValues": {
-        "isCollected": true
-      }
-    },
-    {
-      "id": 33,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 34,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 35,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 36,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 37,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 38,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 39,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 40,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 41,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 42,
-      "trackerValues": {
-        "isCollected": false
-      }
-    },
-    {
-      "id": 43,
-      "trackerValues": {
-        "isCollected": false
-      }
-    }
+    { "id": 1, "trackerValues": { "isCollected": true } },
+    { "id": 2, "trackerValues": { "isCollected": true } },
+    { "id": 3, "trackerValues": { "isCollected": true } },
+    { "id": 4, "trackerValues": { "isCollected": true } },
+    { "id": 5, "trackerValues": { "isCollected": false } },
+    { "id": 6, "trackerValues": { "isCollected": true } },
+    { "id": 7, "trackerValues": { "isCollected": true } },
+    { "id": 8, "trackerValues": { "isCollected": true } },
+    { "id": 9, "trackerValues": { "isCollected": true } },
+    { "id": 10, "trackerValues": { "isCollected": false } },
+    { "id": 11, "trackerValues": { "isCollected": true } },
+    { "id": 12, "trackerValues": { "isCollected": true } },
+    { "id": 13, "trackerValues": { "isCollected": true } },
+    { "id": 14, "trackerValues": { "isCollected": true } },
+    { "id": 15, "trackerValues": { "isCollected": true } },
+    { "id": 16, "trackerValues": { "isCollected": true } },
+    { "id": 17, "trackerValues": { "isCollected": true } },
+    { "id": 18, "trackerValues": { "isCollected": true } },
+    { "id": 19, "trackerValues": { "isCollected": true } },
+    { "id": 20, "trackerValues": { "isCollected": true } },
+    { "id": 21, "trackerValues": { "isCollected": true } },
+    { "id": 22, "trackerValues": { "isCollected": true } },
+    { "id": 23, "trackerValues": { "isCollected": false } },
+    { "id": 24, "trackerValues": { "isCollected": true } },
+    { "id": 25, "trackerValues": { "isCollected": true } },
+    { "id": 26, "trackerValues": { "isCollected": true } },
+    { "id": 27, "trackerValues": { "isCollected": true } },
+    { "id": 28, "trackerValues": { "isCollected": true } },
+    { "id": 29, "trackerValues": { "isCollected": true } },
+    { "id": 30, "trackerValues": { "isCollected": true } },
+    { "id": 31, "trackerValues": { "isCollected": true } },
+    { "id": 32, "trackerValues": { "isCollected": true } },
+    { "id": 33, "trackerValues": { "isCollected": true } },
+    { "id": 34, "trackerValues": { "isCollected": true } },
+    { "id": 35, "trackerValues": { "isCollected": true } },
+    { "id": 36, "trackerValues": { "isCollected": true } },
+    { "id": 37, "trackerValues": { "isCollected": true } },
+    { "id": 38, "trackerValues": { "isCollected": true } },
+    { "id": 39, "trackerValues": { "isCollected": true } },
+    { "id": 40, "trackerValues": { "isCollected": true } },
+    { "id": 41, "trackerValues": { "isCollected": true } },
+    { "id": 42, "trackerValues": { "isCollected": true } },
+    { "id": 43, "trackerValues": { "isCollected": true } }
   ],
   "animal": [
     {
@@ -284,10 +69,10 @@
       "id": 3,
       "trackerValues": {
         "isTracked": false,
-        "isKilled": true,
-        "isSkinned": true,
+        "isKilled": false,
+        "isSkinned": false,
         "isPerfectSkinned": false,
-        "isStudied": true
+        "isStudied": false
       }
     },
     {
@@ -463,31 +248,31 @@
     {
       "id": 21,
       "trackerValues": {
-        "isTracked": false,
-        "isKilled": false,
-        "isSkinned": false,
-        "isPerfectSkinned": false,
-        "isStudied": false
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
       }
     },
     {
       "id": 22,
       "trackerValues": {
-        "isTracked": false,
-        "isKilled": false,
-        "isSkinned": false,
-        "isPerfectSkinned": false,
-        "isStudied": false
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
       }
     },
     {
       "id": 23,
       "trackerValues": {
-        "isTracked": false,
-        "isKilled": false,
-        "isSkinned": false,
-        "isPerfectSkinned": false,
-        "isStudied": false
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
       }
     },
     {
@@ -503,11 +288,11 @@
     {
       "id": 25,
       "trackerValues": {
-        "isTracked": false,
-        "isKilled": false,
-        "isSkinned": false,
-        "isPerfectSkinned": false,
-        "isStudied": false
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
       }
     },
     {
@@ -583,11 +368,11 @@
     {
       "id": 33,
       "trackerValues": {
-        "isTracked": false,
-        "isKilled": false,
-        "isSkinned": false,
-        "isPerfectSkinned": false,
-        "isStudied": false
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
       }
     },
     {
@@ -614,7 +399,7 @@
       "id": 36,
       "trackerValues": {
         "isTracked": false,
-        "isKilled": false,
+        "isKilled": true,
         "isSkinned": false,
         "isPerfectSkinned": false,
         "isStudied": false
@@ -1263,11 +1048,11 @@
     {
       "id": 101,
       "trackerValues": {
-        "isTracked": false,
-        "isKilled": false,
-        "isSkinned": false,
-        "isPerfectSkinned": false,
-        "isStudied": false
+        "isTracked": true,
+        "isKilled": true,
+        "isSkinned": true,
+        "isPerfectSkinned": true,
+        "isStudied": true
       }
     },
     {
@@ -1872,6 +1657,168 @@
     },
     {
       "id": 162,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    }
+  ],
+  "legendaryAnimal": [
+    {
+      "id": 1,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 2,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 3,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 4,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 5,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 6,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 7,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 8,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 9,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 10,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 11,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 12,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 13,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 14,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 15,
+      "trackerValues": {
+        "isTracked": false,
+        "isKilled": false,
+        "isSkinned": false,
+        "isPerfectSkinned": false,
+        "isStudied": false
+      }
+    },
+    {
+      "id": 16,
       "trackerValues": {
         "isTracked": false,
         "isKilled": false,

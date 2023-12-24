@@ -1,4 +1,4 @@
-import type { DataItem, ITEM_TYPES, WithId } from '@/models/data'
+import type { DataItem, ITEM_TYPES, UserDataItem, WithId } from '@/models/data'
 import { useStorage } from '@vueuse/core'
 import { watch } from 'vue'
 import plants from '@/assets/data/plants.json'
@@ -15,7 +15,7 @@ const filteredUserDataAnimals = userDataJSON.animal.filter(
     animal.trackerValues.isSkinned ||
     animal.trackerValues.isStudied
 )
-const filteredUserDataLegendaryAnimals = userDataJSON?.legendaryAnimals?.filter(
+const filteredUserDataLegendaryAnimals = userDataJSON?.legendaryAnimal?.filter(
   (animal) =>
     animal.trackerValues.isTracked ||
     animal.trackerValues.isKilled ||
@@ -57,27 +57,27 @@ export function useUserData() {
 
   const { value: userData } = useStorage('userData', initialUserData)
 
-  function add(key: keyof typeof initialUserData, value: DataItem<ITEM_TYPES>) {
-    userData[key].push(value)
+  function add<T extends ITEM_TYPES>(key: T, value: UserDataItem<T>) {
+    userData[key].push(value as any)
   }
 
-  function remove(key: keyof typeof initialUserData, value: DataItem<ITEM_TYPES>) {
-    userData[key] = userData[key].filter((item) => item !== value)
+  function remove<T extends ITEM_TYPES>(key: T, value: UserDataItem<T>) {
+    userData[key] = userData[key].filter((item) => item !== value) as any
   }
 
-  function updateList(key: keyof typeof initialUserData, value: DataItem<ITEM_TYPES>[]) {
-    userData[key] = value
+  function updateList<T extends ITEM_TYPES>(key: T, value: UserDataItem<T>[]) {
+    userData[key] = value as any
   }
 
-  function updateItem(key: keyof typeof initialUserData, value: DataItem<ITEM_TYPES>) {
+  function updateItem<T extends ITEM_TYPES>(key: T, value: UserDataItem<T>) {
     const index = userData[key].findIndex((item) => item.id === value.id)
     if (index === -1) return
     const newData = userData[key]
-    newData[index] = value
+    newData[index] = value as any
     userData[key] = newData
   }
 
-  function updateOrCreateItem(key: keyof typeof initialUserData, value: DataItem<ITEM_TYPES>) {
+  function updateOrCreateItem<T extends ITEM_TYPES>(key: T, value: UserDataItem<T>) {
     console.log('updateOrCreateItem', key, value)
     const index = userData[key].findIndex((item) => item.id === value.id)
     // console.log('index', index)
@@ -87,12 +87,6 @@ export function useUserData() {
       updateItem(key, value)
     }
   }
-
-  // // downlaod userData
-  // const a = document.createElement('a')
-  // a.href = URL.createObjectURL(new Blob([JSON.stringify(userData)]))
-  // a.download = 'userData.json'
-  // a.click()
 
   return { userData, add, remove, updateList, updateItem, updateOrCreateItem }
 }

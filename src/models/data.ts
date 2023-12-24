@@ -42,14 +42,27 @@ export interface TrackerValues {
   }
 }
 
+export type GenericTrackerValues<T extends ITEM_TYPES> = TrackerValues[T]
+const test = {
+  isTracked: true,
+  isKilled: true,
+  isSkinned: true,
+  isPerfectSkinned: true,
+  isStudied: true
+} satisfies GenericTrackerValues<ITEM_TYPES.ANIMAL>
+
 export type OBJECTIVE =
   | keyof TrackerValues[ITEM_TYPES.ANIMAL]
   | keyof TrackerValues[ITEM_TYPES.PLANT]
   | keyof TrackerValues[ITEM_TYPES.LEGENDARY_ANIMAL]
+
+export interface UserDataItem<T extends ITEM_TYPES> extends WithId {
+  trackerValues: GenericTrackerValues<T>
+}
 export interface UserData {
-  plant: DataItem<ITEM_TYPES.PLANT>[]
-  animal: DataItem<ITEM_TYPES.ANIMAL>[]
-  legendaryAnimals: DataItem<ITEM_TYPES.LEGENDARY_ANIMAL>[]
+  plant: UserDataItem<ITEM_TYPES.PLANT>[]
+  animal: UserDataItem<ITEM_TYPES.ANIMAL>[]
+  legendaryAnimals: UserDataItem<ITEM_TYPES.LEGENDARY_ANIMAL>[]
 }
 
 export const ICONS = {
